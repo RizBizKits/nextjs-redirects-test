@@ -6,7 +6,7 @@ module.exports = {
                 has: [
                     {
                         type: 'header',
-                        key: 'User-Agent',
+                        key: 'user-agent',
                         value: 'Mozilla/5.0 \\(Windows NT 10.0; Trident/7.0; rv\\:11.0\\) like Gecko'
                     }
                 ],
